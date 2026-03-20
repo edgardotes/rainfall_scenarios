@@ -3,3 +3,6 @@ data/*nc
 
 #figures
 figures/*.png
+
+#output
+data/*csv

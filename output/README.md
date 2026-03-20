@@ -71,7 +71,7 @@ The temporal structure and duration remain unchanged.
 
 Each `.csv` file contains:
 
-### Primary forcing variables (Marcela format)
+### Primary forcing variables
 
 * `time_s` → time in seconds
 * `rate_mps` → rainfall rate in m/s
