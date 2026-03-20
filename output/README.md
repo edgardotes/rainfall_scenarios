@@ -128,5 +128,5 @@ This table is the best starting point for comparing scenarios.
 
 For questions regarding scenario construction or file usage, please contact:
 
-*<Edgar Dolores-Tesillos / https://edgardotes.github.io>*
+* Edgar Dolores-Tesillos / https://edgardotes.github.io *
 
