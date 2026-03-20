@@ -6,3 +6,6 @@ figures/*.png
 
 #output
 data/*csv
+
+#compress
+*.tar.gz
