@@ -23,7 +23,7 @@ rain_D6h_RPXXX_PYYYY_ZZZ.csv
 
 Where:
 
-* `D6h` → duration (6 hours)
+* `DXh` → duration (3,6 hours)
 * `RPXXX` → return period in years (e.g., 2, 30, 100, 200)
 * `PYYYY` → probability level of HADES return level
 
