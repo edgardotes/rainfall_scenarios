@@ -9,7 +9,7 @@ The scenarios are based on:
 * precipitation return levels from the Hydrological Atlas of Switzerland (HADES),
 * and systematic scaling of rainfall intensity to represent potential climate-driven changes.
 
-All scenarios have a **duration of 6 hours**, consistent with the observed event.
+All scenarios have a **duration of 3 or 6 hours**, consistent with the observed event.
 
 ---
 
@@ -18,12 +18,12 @@ All scenarios have a **duration of 6 hours**, consistent with the observed event
 Each file follows the format:
 
 ```
-rain_D6h_RPXXX_PYYYY_ZZZ.csv
+rain_DXh_RPXXX_PYYYY_ZZZ.csv
 ```
 
 Where:
 
-* `DXh` → duration (3,6 hours)
+* `DXh` → duration (e.g., 3, 6)
 * `RPXXX` → return period in years (e.g., 2, 30, 100, 200)
 * `PYYYY` → probability level of HADES return level
 
